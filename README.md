@@ -154,7 +154,7 @@ Supabase Realtime channels push order/table state to the kitchen display. No bes
 
 This is a **sanitized architecture write-up** of a real production system I designed and built. Source code and infrastructure remain private; this document exists to show how I reason about **multi-tenancy, compliance, payments and performance** under real constraints.
 
-Related public work: [VeriStack](https://github.com/franamaro-dev/VeriStack) · [VeriFactu-SOC-Demo](https://github.com/franamaro-dev/VeriFactu-SOC-Demo) · [Store-Inventory-API](https://github.com/franamaro-dev/Store-Inventory-API)
+Related public work: [VeriStack](https://github.com/franamaro-dev/VeriStack) · [VeriFactu-Integrity-Lab](https://github.com/franamaro-dev/VeriFactu-Integrity-Lab) · [Store-Inventory-API](https://github.com/franamaro-dev/Store-Inventory-API)
 
 ---
 
